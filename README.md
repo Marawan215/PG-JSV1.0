@@ -16,6 +16,4 @@
 Include the library directly in your project via **jsDelivr**:  
 
 ```html
-
-## Developers: Dragon Coding Teams
-https://cdn.jsdelivr.net/gh/Marawan215/PG-JS@main/PG.js
+https://cdn.jsdelivr.net/gh/Marawan215/PG-JSV1.0/PG.js
